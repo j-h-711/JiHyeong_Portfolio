@@ -1,7 +1,5 @@
 # JiHyeong Portfolio
 
-포트폴리오의 웹 버전
-
 ## 사용 기술 및 라이브러리
 
 - HTML
@@ -10,8 +8,9 @@
 
 ## 서비스 배포
 
-Netlify를 통해 배포
-https://ji-hyeong-mbti-test.netlify.app
+- Netlify를 통해 배포
+
+https://jihyeong-portfolio.netlify.app
 
 ## 기능
 
