@@ -1,5 +1,7 @@
 # JiHyeong Portfolio
 
+포트폴리오 웹 버전
+
 ## 사용 기술 및 라이브러리
 
 - HTML
